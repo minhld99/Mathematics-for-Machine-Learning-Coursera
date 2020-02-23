@@ -32,11 +32,11 @@ This repository contains the fundamental Mathematics knowledge required for Mach
 ## [Course 3: Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning/)
 
 1. Week 1
-    - [x] Completed.
+    - [ ] Completed.
 2. Week 2
-    - [x] Completed.
+    - [ ] Completed.
 3. Week 3
-    - [x] Completed.
+    - [ ] Completed.
 4. Week 4
     - [ ] Completed.
     
