@@ -1,4 +1,4 @@
-# Mathematics-for-Machine-Learning-Coursera
+# Mathematics for Machine Learning Coursera
 This repository contains the fundamental Mathematics knowledge required for Machine Leaning.
 
 ## [Course 1: Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/)
