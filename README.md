@@ -23,9 +23,9 @@ This repository contains the fundamental Mathematics knowledge required for Mach
 3. Week 3
     - [x] Completed.
 4. Week 4
-    - [ ] Completed.
+    - [x] Completed.
 5. Week 5
-    - [ ] Completed.
+    - [x] Completed.
 6. Week 6
     - [ ] Completed.
     
