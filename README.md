@@ -27,12 +27,12 @@ This repository contains the fundamental Mathematics knowledge required for Mach
 5. Week 5
     - [x] Completed.
 6. Week 6
-    - [ ] Completed.
+    - [x] Completed.
     
 ## [Course 3: Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning/)
 
 1. Week 1
-    - [ ] Completed.
+    - [x] Completed.
 2. Week 2
     - [ ] Completed.
 3. Week 3
@@ -43,5 +43,5 @@ This repository contains the fundamental Mathematics knowledge required for Mach
     
 ## Link to my certificates
 [Course 1](https://coursera.org/share/5ca48421b5d41d4a0da060c91e89f000)
-[Course 2]
+[Course 2](https://coursera.org/share/f045895e5055b28234ad63997ee97378)
 [Course 3]
