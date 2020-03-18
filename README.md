@@ -38,7 +38,7 @@ This repository contains the fundamental Mathematics knowledge required for Mach
 3. Week 3
     - [x] Completed.
 4. Week 4
-    - [ ] Completed.
+    - [x] Completed.
     
     
 ## Link to my certificates
