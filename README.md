@@ -41,7 +41,7 @@ This repository contains the fundamental Mathematics knowledge required for Mach
     - [x] Completed.
     
     
-### Link to my certificates
+## Link to my certificates
 [Course 1](https://www.coursera.org/account/accomplishments/verify/GJS2K9XUDU4T)</br>
 [Course 2](https://www.coursera.org/account/accomplishments/verify/5NEQTSKMQQ8A)</br>
 [Course 3](https://www.coursera.org/account/accomplishments/verify/2574GJDMK7L5)</br>
